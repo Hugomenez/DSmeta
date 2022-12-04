@@ -11,7 +11,7 @@
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmeta</name>
-	<description>Projeto Spring React devsuperior</description>
+	<description>Projeto DSmeta Hugo Menezes</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
